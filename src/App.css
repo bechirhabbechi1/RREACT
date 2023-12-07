@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.headding{
+    display: flex;
+    margin: 50Px;
+    justify-content: center;
+
+}
+
+
